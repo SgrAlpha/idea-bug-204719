@@ -1,0 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.eml
+*.iws
+*.ipr
+# Artifact output dir
+/out
+
+# Mac
+.DS_Store
+
+# Maven
+target/
